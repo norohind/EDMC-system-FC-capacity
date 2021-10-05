@@ -1,5 +1,6 @@
 # What is it
 EDMC plugin for determining current system FC capacity, can be useful to decide if it cost to try schedule FC jump to a system.
+
 ![](1.png)
 
 *Plugin shows all FC slots is occupied in current system. First 112 means how many FCs in system, second 112 means how many 
